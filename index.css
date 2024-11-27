@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.yesu{
+    background-color: rgb(32, 31, 31);
+}
+.nav-bar{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    background:maroon;
+}
+.nav-bar>ol{
+    margin-left: 20px;
+    border: 10px solid maroon;
+    width: 60%;
+    display: flex;
+    color: white;
+    list-style: none ;
+}
+.my-way{
+    border: 5px solid maroon;
+    display: flex;
+    width: 40%;
+    color: white;
+
+}
+.my-way>ol{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 30px;
+    list-style:none;
+}
+.my-way>ol>li{
+    margin-left: 80px;
+}.fever{
+ background:red;
+ border-radius: 20px;
+ padding: 10px;
+ color: white;
+ width: 90px;
+ margin-top: -10px;
+}
+
+.nav-bar>ol>li{
+    margin-right:30px;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.small-nav{
+    border: 0.5px solid orange;
+    width: 100%;
+    height: 4px;
+    background: orange;
+}
+.hel-nav{
+    margin-left: 500px;
+}
+.hel-nav>p{
+    font-size: medium;
+}
+.patrick{
+    width: 29%;
+    background-color:antiquewhite;
+    height: 40px;
+    border-radius: 10px;
+}
+.labels{
+    color: white;
+}
+.emma{
+    width: 29%;
+    background-color:antiquewhite;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+
+
+    }
+.hello{
+    margin-left: 180px;
+    color: red;
+    margin-top: -55px;
+}
+.jesus{    margin-left: 120px;
+    width: 30%;
+    margin-left: -2px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+}
+.out{
+    color: white;
+}
+.yellow{
+    color: white;
+}
+.hlo{
+width: 40px;
+height: 30px;
+}
+.rel{
+    color: red;
+    font-size: x-large;
+    
+}
